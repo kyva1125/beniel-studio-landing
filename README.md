@@ -71,3 +71,6 @@ export default defineConfig([
   },
 ])
 ```
+# Beniel Studio
+
+Landing corporativa de Beniel Studio. El despliegue de producción está conectado automáticamente con Vercel desde la rama `main`.

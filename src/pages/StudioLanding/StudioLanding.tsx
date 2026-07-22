@@ -33,7 +33,7 @@ export function StudioLanding() {
         <div className={styles.heroCopy}>
           <p className={styles.kicker}><i /> Estudio digital independiente</p>
           <h1>Productos digitales <em>que mueven</em> negocios.</h1>
-          <p className={styles.lead}>Creamos software, experiencias y automatizaciones para negocios que prefieren avanzar en vez de seguir resolviendo todo a mano.</p>
+          <p className={styles.lead}>En Beniel Estudio creamos productos digitales y automatizaciones para negocios que quieren dejar de perder tiempo en tareas manuales. Hacemos que la tecnología trabaje a tu favor con sistemas rápidos, fáciles de usar y diseñados específicamente para aumentar tus ventas.</p>
           <div className={styles.heroActions}><a href="#contacto" className={styles.primaryButton}>Conversemos sobre tu idea <FaArrowRight /></a><a href="#productos" className={styles.textButton}>Ver productos <span>↓</span></a></div>
         </div>
         <div className={styles.heroVisual}>

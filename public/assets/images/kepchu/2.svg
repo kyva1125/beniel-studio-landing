@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1400" viewBox="0 0 900 1400" role="img" aria-labelledby="title desc">
+  <title id="title">Kepchu WhatsApp Cloud API placeholder</title>
+  <desc id="desc">Portfolio placeholder showing a WhatsApp Business Cloud API SaaS dashboard for Kepchu.</desc>
+  <rect width="900" height="1400" fill="#06121d"/>
+  <rect x="70" y="80" width="760" height="1240" rx="40" fill="#0d1d2b" stroke="#263f58" stroke-width="4"/>
+  <rect x="116" y="126" width="668" height="96" rx="26" fill="#132b3e"/>
+  <text x="154" y="188" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Kepchu</text>
+  <circle cx="708" cy="174" r="22" fill="#20b765"/>
+  <rect x="116" y="278" width="210" height="880" rx="28" fill="#10283c"/>
+  <rect x="356" y="278" width="428" height="260" rx="30" fill="#f6f9fc"/>
+  <text x="396" y="360" fill="#0d1d2b" font-family="Arial, sans-serif" font-size="30" font-weight="700">Conexion Meta</text>
+  <rect x="396" y="398" width="280" height="22" rx="11" fill="#8298aa"/>
+  <rect x="396" y="454" width="250" height="56" rx="18" fill="#20b765"/>
+  <rect x="356" y="578" width="428" height="250" rx="30" fill="#132b3e"/>
+  <text x="396" y="660" fill="#ffffff" font-family="Arial, sans-serif" font-size="30" font-weight="700">Mensajes</text>
+  <rect x="396" y="704" width="314" height="34" rx="17" fill="#2b4962"/>
+  <rect x="396" y="758" width="240" height="34" rx="17" fill="#2b4962"/>
+  <rect x="356" y="868" width="428" height="290" rx="30" fill="#f6f9fc"/>
+  <text x="396" y="950" fill="#0d1d2b" font-family="Arial, sans-serif" font-size="30" font-weight="700">Campanas</text>
+  <rect x="396" y="1000" width="300" height="22" rx="11" fill="#8298aa"/>
+  <rect x="396" y="1052" width="250" height="56" rx="18" fill="#132b3e"/>
+  <rect x="154" y="340" width="128" height="26" rx="13" fill="#7f95a8"/>
+  <rect x="154" y="420" width="128" height="26" rx="13" fill="#7f95a8"/>
+  <rect x="154" y="500" width="128" height="26" rx="13" fill="#20b765"/>
+  <rect x="154" y="580" width="128" height="26" rx="13" fill="#7f95a8"/>
+</svg>

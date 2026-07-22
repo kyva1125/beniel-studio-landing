@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1400" viewBox="0 0 900 1400" role="img" aria-labelledby="title desc">
+  <title id="title">Acata digital catalog placeholder</title>
+  <desc id="desc">Portfolio placeholder showing a digital catalog interface for Acata.</desc>
+  <rect width="900" height="1400" fill="#07131f"/>
+  <rect x="72" y="84" width="756" height="1232" rx="44" fill="#0f2233" stroke="#2b556c" stroke-width="4"/>
+  <rect x="126" y="146" width="648" height="92" rx="24" fill="#102f42"/>
+  <circle cx="174" cy="192" r="24" fill="#19b36b"/>
+  <text x="218" y="203" fill="#f7fbff" font-family="Arial, sans-serif" font-size="34" font-weight="700">Acata</text>
+  <rect x="126" y="282" width="648" height="220" rx="32" fill="#123d4f"/>
+  <text x="166" y="376" fill="#f7fbff" font-family="Arial, sans-serif" font-size="42" font-weight="700">Catalogo digital</text>
+  <text x="166" y="432" fill="#b6c7d2" font-family="Arial, sans-serif" font-size="25">Pedidos directos por WhatsApp</text>
+  <rect x="126" y="548" width="300" height="270" rx="30" fill="#f7fbff"/>
+  <rect x="474" y="548" width="300" height="270" rx="30" fill="#f7fbff"/>
+  <rect x="126" y="858" width="300" height="270" rx="30" fill="#f7fbff"/>
+  <rect x="474" y="858" width="300" height="270" rx="30" fill="#f7fbff"/>
+  <rect x="166" y="598" width="220" height="110" rx="22" fill="#d9f5e7"/>
+  <rect x="514" y="598" width="220" height="110" rx="22" fill="#e8f1f5"/>
+  <rect x="166" y="908" width="220" height="110" rx="22" fill="#e8f1f5"/>
+  <rect x="514" y="908" width="220" height="110" rx="22" fill="#d9f5e7"/>
+  <rect x="166" y="738" width="130" height="20" rx="10" fill="#132f42"/>
+  <rect x="166" y="778" width="190" height="18" rx="9" fill="#8fa3ae"/>
+  <rect x="514" y="738" width="130" height="20" rx="10" fill="#132f42"/>
+  <rect x="514" y="778" width="190" height="18" rx="9" fill="#8fa3ae"/>
+  <rect x="166" y="1048" width="130" height="20" rx="10" fill="#132f42"/>
+  <rect x="166" y="1088" width="190" height="18" rx="9" fill="#8fa3ae"/>
+  <rect x="514" y="1048" width="130" height="20" rx="10" fill="#132f42"/>
+  <rect x="514" y="1088" width="190" height="18" rx="9" fill="#8fa3ae"/>
+  <rect x="126" y="1184" width="648" height="72" rx="24" fill="#19b36b"/>
+  <text x="278" y="1233" fill="#062014" font-family="Arial, sans-serif" font-size="28" font-weight="700">Enviar pedido por WhatsApp</text>
+</svg>

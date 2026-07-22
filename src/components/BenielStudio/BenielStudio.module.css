@@ -1,0 +1,21 @@
+.section{position:relative;overflow:hidden;background:linear-gradient(180deg,rgba(15,23,42,.18),transparent)}
+.header{display:grid;grid-template-columns:minmax(0,1fr) minmax(280px,440px);gap:50px;align-items:end;margin-bottom:42px}
+.brandMark{display:inline-flex;align-items:center;gap:14px;margin-bottom:24px;padding:8px 14px 8px 8px;border:1px solid rgba(255,255,255,.12);border-radius:16px;background:rgba(255,255,255,.04)}
+.brandMark img{display:block;width:68px;height:68px;object-fit:contain;border-radius:10px;background:#f8fafc}
+.brandMark span{max-width:170px;color:var(--text-secondary);font-size:.72rem;line-height:1.45;letter-spacing:.04em;text-transform:uppercase}
+.eyebrow{display:inline-block;color:var(--accent-color);font-size:.72rem;font-weight:800;letter-spacing:2px;margin-bottom:14px}
+.header h2{font-size:clamp(2rem,4vw,3.4rem);line-height:1.08;margin:0;max-width:650px;color:var(--text-primary)}
+.header>p{color:var(--text-secondary);font-size:1.02rem;line-height:1.85;margin:0}
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.card{padding:28px;min-height:215px;border:1px solid rgba(255,255,255,.12);transition:border-color .3s ease}
+.card:hover{border-color:var(--accent-color)}
+.icon{display:grid;place-items:center;width:45px;height:45px;border-radius:12px;background:rgba(139,92,246,.14);color:var(--accent-color);font-size:1.15rem;margin-bottom:24px}
+.card h3{font-size:1.12rem;color:var(--text-primary);margin:0 0 11px}
+.card p{color:var(--text-secondary);line-height:1.7;font-size:.92rem;margin:0}
+.process{margin-top:38px;padding:22px 0;border-top:1px solid rgba(255,255,255,.12);border-bottom:1px solid rgba(255,255,255,.12);display:flex;align-items:center;gap:30px}
+.processLabel{color:var(--text-primary);font-weight:700;white-space:nowrap}
+.processSteps{display:flex;align-items:center;justify-content:space-between;gap:16px;width:100%;color:var(--text-secondary);font-size:.84rem}
+.processSteps span{display:flex;align-items:center;gap:8px;white-space:nowrap}.processSteps b{color:var(--accent-color);font-size:.72rem}.processSteps svg{color:rgba(255,255,255,.35);font-size:.65rem;margin-left:10px}
+.cta{display:inline-flex;align-items:center;gap:10px;color:var(--accent-color);font-weight:700;font-size:.9rem;margin-top:26px}.cta svg{font-size:.7rem;transition:transform .2s ease}.cta:hover svg{transform:translateX(4px)}
+@media(max-width:850px){.header{grid-template-columns:1fr;gap:20px}.cards{grid-template-columns:1fr}.process{align-items:flex-start;flex-direction:column;gap:16px}.processSteps{flex-wrap:wrap;justify-content:flex-start;row-gap:15px}}
+@media(max-width:480px){.brandMark{width:100%;box-sizing:border-box}.brandMark img{width:60px;height:60px}}

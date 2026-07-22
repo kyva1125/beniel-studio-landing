@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1400" viewBox="0 0 900 1400" role="img" aria-labelledby="title desc">
+  <title id="title">Acita booking placeholder</title>
+  <desc id="desc">Portfolio placeholder showing an appointment booking interface for Acita.</desc>
+  <rect width="900" height="1400" fill="#081421"/>
+  <rect x="80" y="88" width="740" height="1224" rx="42" fill="#101f32" stroke="#284864" stroke-width="4"/>
+  <text x="130" y="184" fill="#ffffff" font-family="Arial, sans-serif" font-size="46" font-weight="700">Acita</text>
+  <text x="130" y="236" fill="#b8c6d4" font-family="Arial, sans-serif" font-size="25">Agenda online con WhatsApp</text>
+  <rect x="130" y="300" width="640" height="150" rx="28" fill="#17314a"/>
+  <text x="170" y="366" fill="#ffffff" font-family="Arial, sans-serif" font-size="30" font-weight="700">Reservas sin cuenta</text>
+  <text x="170" y="414" fill="#b8c6d4" font-family="Arial, sans-serif" font-size="22">Cliente, servicio, fecha y hora</text>
+  <rect x="130" y="504" width="640" height="90" rx="22" fill="#f6f9fc"/>
+  <rect x="170" y="538" width="210" height="22" rx="11" fill="#8ba0b2"/>
+  <rect x="130" y="626" width="292" height="148" rx="26" fill="#f6f9fc"/>
+  <rect x="478" y="626" width="292" height="148" rx="26" fill="#f6f9fc"/>
+  <text x="172" y="710" fill="#0b1e2f" font-family="Arial, sans-serif" font-size="25" font-weight="700">10:30 AM</text>
+  <text x="520" y="710" fill="#0b1e2f" font-family="Arial, sans-serif" font-size="25" font-weight="700">03:00 PM</text>
+  <rect x="130" y="828" width="640" height="218" rx="30" fill="#122b42"/>
+  <text x="170" y="895" fill="#ffffff" font-family="Arial, sans-serif" font-size="31" font-weight="700">Panel de citas</text>
+  <rect x="170" y="936" width="560" height="34" rx="17" fill="#27465e"/>
+  <rect x="170" y="990" width="420" height="34" rx="17" fill="#27465e"/>
+  <rect x="130" y="1100" width="640" height="76" rx="24" fill="#20b765"/>
+  <text x="288" y="1150" fill="#062014" font-family="Arial, sans-serif" font-size="28" font-weight="700">Confirmar por WhatsApp</text>
+</svg>

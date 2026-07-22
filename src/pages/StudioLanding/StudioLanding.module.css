@@ -12,3 +12,4 @@
 .sectionIntro em,.servicesHeader em,.processCopy em{color:#167eb5}
 
 .processSection{padding-top:78px;padding-bottom:78px}.processVisual{width:280px;height:280px}.processVisual>img{width:82%;height:82%}.contactSection{min-height:0;padding-top:82px;padding-bottom:82px}.contactSection h2{margin-top:16px;margin-bottom:16px}@media(max-width:760px){.processSection{padding-top:55px;padding-bottom:55px}.processVisual{width:250px;height:250px}.contactSection{min-height:0;padding-top:65px;padding-bottom:65px}}
+.languageSwitch{display:flex;align-items:center;border:1px solid #ffffff4d;border-radius:999px;padding:3px;gap:2px}.languageSwitch button{border:0;background:transparent;color:#dbeaf3;border-radius:999px;padding:6px 8px;font-size:10px;font-weight:800;letter-spacing:.6px}.languageSwitch .languageActive{background:#35b8ec;color:#041b36}@media(max-width:760px){.languageSwitch{align-self:flex-start;margin:4px 8px}.languageSwitch button{padding:7px 9px}}
